@@ -36,7 +36,7 @@ on:
 
 env:
   PROJECT_ID: 'zeta-axiom-468312-f1' # TODO: update to your Google Cloud project ID
-  REGION: 'europe-central2' # TODO: update to your region
+  REGION: 'europe-north2' # TODO: update to your region
   SERVICE: 'github-pipeline' # TODO: update to your service name
   WORKLOAD_IDENTITY_PROVIDER: 'projects/627443857788/locations/global/workloadIdentityPools/github-actions/providers/github' # TODO: update to your workload identity provider
 
