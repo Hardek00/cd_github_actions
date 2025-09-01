@@ -3,7 +3,7 @@ import os
 
 app = FastAPI()
 
-
+# Root endpoint
 @app.get("/")
 def read_root():
     return {
